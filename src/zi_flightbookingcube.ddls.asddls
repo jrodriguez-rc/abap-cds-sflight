@@ -4,6 +4,7 @@
 @AccessControl.authorizationCheck: #NOT_REQUIRED
 @EndUserText.label: 'Flight Booking Cube'
 
+@VDM.viewType: #COMPOSITE
 @Analytics.dataCategory: #CUBE
 
 define view ZI_FlightBookingCube
